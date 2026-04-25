@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Data files (too large for GitHub)
+data/raw/
+data/processed/
+
+# Visualizations
+visualizations/
+
+# Node modules
+node_modules/
+dashboard/node_modules/
+dashboard/build/
+
+# Spark warehouse
+spark-warehouse/
+
+# Logs
+logs/
+*.log
